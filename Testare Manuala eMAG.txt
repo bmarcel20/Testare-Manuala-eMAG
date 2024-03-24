@@ -1,13 +1,16 @@
-Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+Testing Project for www.eMAG.ro
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+Application under test: www.eMAG.ro
 
 Tools used: Jira, Zephyr Squad.
 
 Functional specifications:
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+The below stories were created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
 
+  1. BMTT-1 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare”, as a NON-REGISTERED USER.
+  2. BMTT-2 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare” as a REGISTERED USER.
+  
 inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
 
 Here you can find the release that was created for this project:
@@ -25,19 +28,48 @@ The plan identifies the items to be tested, the features to be tested, the types
 1.1.1. Roles asigned to the project and persons allocated
 (numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-Project manager
-Product owner
-Software developer
-QA Engineer
+Project manager - MOLDOVAN STEFAN
+Product owner -  MUNTEAN MARIUS
+Software developer - POP IOAN 
+QA Engineer - BOROTA MARCEL GHITA IONEL
+
 1.1.2 Entry criteria defined
 (enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
+1."PC Desktop / Laptop"
+2.Operating Sistem "Windows 10 Home".
+3.web browser "Google Chrome (Version 122.0.6261.95)"
+4.The user should have access to the website www.eMAG.ro
+5.The user should be logged in with the existing user credentials email “borotamarcel@yahoo.com” and password “SM209279a”.
 
 1.1.3 Exit criteria defined
 (enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
+1. Stability and Performance:
+   - The web page should be stable and function without major errors or crashes.
+   - Page load time should be under 3 seconds for each page.
+
+2. Browser Compatibility:
+   - The web page should be compatible with the latest versions of Google Chrome, Mozilla Firefox, and Microsoft Edge.
+   - User interface should display and function properly on the latest versions of mobile browsers.
+
+3. Security:
+   - The web page should be protected against known security vulnerabilities such as SQL injections and XSS.
+   - All HTTP requests should be encrypted using HTTPS.
+
+4. Web Standards Compliance:
+   - The web page should follow the latest HTML and CSS standards, ensuring it's built using modern web technologies.
+   - The website should be accessible to people with disabilities, meeting the accessibility requirements.
+
+5. Functionality:
+   - All key functionalities such as the contact form and search functionality should work as per specifications.
+   - Internal and external links should lead to the correct destination and be valid.
 
 1.1.4 Test scope
 Tests in scope:
+
 (descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+1).Testing the functionality of the sections, "Incepe o noua cautare", Produse”, “Oferta Zilei” și “Ofertele eMAG” for a eMAG Registered user and a Non-registered user. 
+2).Testing the functionality of the buttons “Contul meu”, “Coșul meu” and “Favorite’.
+
 
 Tests not in scope:
 (descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
