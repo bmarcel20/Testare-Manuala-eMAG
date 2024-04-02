@@ -16,7 +16,7 @@
 
 
 Here you can find the release that was created for this project:
-![image](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/7f39ea93-acd6-4aaf-8233-aa081bc28185)
+![Release test eMAG](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/94295f24-d9d1-48af-afae-9b3a37075208)
 
 
 ## Testing process
