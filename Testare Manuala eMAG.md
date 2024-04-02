@@ -11,10 +11,13 @@
     
       1. BMTT-1 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare”, as a NON-REGISTERED USER.
       2. BMTT-2 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare” as a REGISTERED USER.
-  
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+![BMTT2](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/90915970-a3b7-46c6-b592-9627e3266d27)
+![BMTT1](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/251b7c8e-3f90-41e7-a648-21a8c1a58384)
+
 
 Here you can find the release that was created for this project:
+![image](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/7f39ea93-acd6-4aaf-8233-aa081bc28185)
+
 
 ## Testing process
     The test process was performed based on the standard test process as described below.
