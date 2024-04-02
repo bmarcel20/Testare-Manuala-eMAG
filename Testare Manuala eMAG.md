@@ -122,6 +122,8 @@ Here you can find the release that was created for this project:
 
     Bugs have been created based on the failed tests. The complete bug reports can be found here: 
     The following is a summary of the bugs that have been found:
+    ![Bug report BMTT 13](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/9d156c46-bfee-4e99-be7a-5a24eeb3e5ce)
+    ![Bug report BMTT 14](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/a2aefac4-b60d-4b30-9234-3169a400b058)
 
      [BMTT-14 (1).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843069/BMTT-14.1.pdf)
     [BMTT-13 (2).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843068/BMTT-13.2.pdf)
