@@ -70,7 +70,6 @@ Here you can find the release that was created for this project:
       1).Testing the functionality of the sections, "Incepe o noua cautare", Produse”, “Oferta Zilei” și “Ofertele eMAG” for a eMAG Registered user and a Non-registered user. 
       2).Testing the functionality of the buttons “Contul meu”, “Coșul meu” and “Favorite’.
 
-
     Tests not in scope:
     
       1.Testing the functionalities of the sections: "Genius Deals", "Genius", "Rabla", "Cardul cu milioane de idei" and "eMAG Help".
@@ -89,20 +88,22 @@ Here you can find the release that was created for this project:
       3. Functionality problems.
 
 #### 1.1.6 Evaluating entry criteria
-The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+    The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-
+    [Borota Marcel Dashbord 2 (4).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14842568/Borota.Marcel.Dashbord.2.4.pdf)
 
 ### 1.3 Test Analysis
 
     The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here 
     
     The following test conditions were found:
+![Matrice trasabilitate 2](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/78ae277a-73bd-4209-bf95-0d0f7714cf7a)
 
 
 ### 1.4 Test Design
     Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+    
 
 ### 1.5 Test Implementation
     The following elements are needed to be ready before the test execution phase begins:
