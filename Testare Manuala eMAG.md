@@ -11,8 +11,9 @@
     
       1. BMTT-1 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare”, as a NON-REGISTERED USER.
       2. BMTT-2 "Testing the functionality of sections "Produse", "Oferta Zilei", "Ofertele eMAG" and search button “Începe o nouă căutare” as a REGISTERED USER.
-![BMTT2](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/90915970-a3b7-46c6-b592-9627e3266d27)
-![BMTT1](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/251b7c8e-3f90-41e7-a648-21a8c1a58384)
+[BMTT-2 (2).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843087/BMTT-2.2.pdf)
+[BMTT-1 (2).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843086/BMTT-1.2.pdf)
+
 
 
 Here you can find the release that was created for this project:
@@ -120,18 +121,20 @@ Here you can find the release that was created for this project:
     Test cases are executed on the created test Cycle summary: (Ad hoc)
 
     Bugs have been created based on the failed tests. The complete bug reports can be found here: 
-    The following is a summary of the bugs that have been found 
-      1. BMTT-14- "Searching the specific product "LENOVO LEGION 5" using directly the search button "Începe o nouă căutare" returns not only this product but other product brands too."
-      2. BMTT-13 -"Website does not return specific error for user connecting with unexisting E-mail adress credentials on website "www.eMAG.ro"."
+    The following is a summary of the bugs that have been found:
+
+     [BMTT-14 (1).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843069/BMTT-14.1.pdf)
+    [BMTT-13 (2).pdf](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843068/BMTT-13.2.pdf)
 
     Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 ### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
     The traceability matrix was generated and can be found here: 
-    
-    Test execution chart was generated and can be found below.
+    [Forward Traceability_23_3_2024 (7).xlsx](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14843111/Forward.Traceability_23_3_2024.7.xlsx)
 
+    Test execution chart was generated and can be found below.
+    ![Execution Chart](https://github.com/bmarcel20/Testare-Manuala-eMAG/assets/157144973/4fd0ff90-5122-48fa-98f0-73fd306162ed)
 
     The final report shows that a number 2 tests have failed of a total of 22
       Total executed:22
