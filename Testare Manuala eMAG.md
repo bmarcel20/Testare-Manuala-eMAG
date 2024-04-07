@@ -103,8 +103,8 @@ Here you can find the release that was created for this project:
 
 
 ### 1.4 Test Design
-    Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
-    
+    Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here.
+    [ZFJ-issue-export-04-07-2024-2bf6b12ffffca3f-0001.xlsx](https://github.com/bmarcel20/Testare-Manuala-eMAG/files/14897926/ZFJ-issue-export-04-07-2024-2bf6b12ffffca3f-0001.xlsx)
 
 ### 1.5 Test Implementation
     The following elements are needed to be ready before the test execution phase begins:
